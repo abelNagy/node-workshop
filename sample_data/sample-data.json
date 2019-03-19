@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "5c9125bd9fedc0df2bd966ce",
+    "index": 0,
+    "balance": "$1,918.82",
+    "age": 38,
+    "eyeColor": "brown",
+    "name": "Burris Dillon",
+    "gender": "male",
+    "email": "burrisdillon@earthmark.com",
+    "phone": "+1 (889) 548-2004",
+    "address": "292 Losee Terrace, Coinjock, North Carolina, 3024",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Dunlap Roberts"
+      },
+      {
+        "id": 1,
+        "name": "Potts Kaufman"
+      }
+    ]
+  },
+  {
+    "_id": "5c9125bd9a58cdf07b5fc67d",
+    "index": 1,
+    "balance": "$3,329.89",
+    "age": 23,
+    "eyeColor": "brown",
+    "name": "Montoya Jefferson",
+    "gender": "male",
+    "email": "montoyajefferson@earthmark.com",
+    "phone": "+1 (812) 522-3741",
+    "address": "540 Billings Place, Websterville, North Dakota, 5271",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Todd Mitchell"
+      },
+      {
+        "id": 1,
+        "name": "Leanne Parks"
+      }
+    ]
+  },
+  {
+    "_id": "5c9125bd267e094db4964f19",
+    "index": 2,
+    "balance": "$1,438.78",
+    "age": 36,
+    "eyeColor": "brown",
+    "name": "Downs Stevens",
+    "gender": "male",
+    "email": "downsstevens@earthmark.com",
+    "phone": "+1 (835) 540-2900",
+    "address": "795 Whitney Avenue, Echo, Virgin Islands, 2247",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Molina Albert"
+      },
+      {
+        "id": 1,
+        "name": "Lynn English"
+      }
+    ]
+  },
+  {
+    "_id": "5c9125bd1c20413d003a657c",
+    "index": 3,
+    "balance": "$2,265.09",
+    "age": 32,
+    "eyeColor": "brown",
+    "name": "Carly Price",
+    "gender": "female",
+    "email": "carlyprice@earthmark.com",
+    "phone": "+1 (826) 505-3104",
+    "address": "487 Schroeders Avenue, Salunga, Louisiana, 5539",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Cash Guerrero"
+      },
+      {
+        "id": 1,
+        "name": "Kari Barton"
+      }
+    ]
+  },
+  {
+    "_id": "5c9125bdc0bb3c5e3033e886",
+    "index": 4,
+    "balance": "$1,740.84",
+    "age": 20,
+    "eyeColor": "green",
+    "name": "Katharine Church",
+    "gender": "female",
+    "email": "katharinechurch@earthmark.com",
+    "phone": "+1 (818) 472-2465",
+    "address": "359 Atkins Avenue, Fresno, Delaware, 6367",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Elisabeth Grant"
+      },
+      {
+        "id": 1,
+        "name": "Rogers Ball"
+      }
+    ]
+  }
+]
